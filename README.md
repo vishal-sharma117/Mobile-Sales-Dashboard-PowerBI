@@ -1,9 +1,9 @@
 # Mobile-Sales-Dashboard-PowerBI
-“Power BI Mobile Sales Dashboard analyzing brand-wise performance, customer behavior, and payment methods using CSV data.”
+“Power BI Mobile Sales Dashboard analyzing brand-wise performance, customer behavior, and payment methods using Excel data.”
 # Mobile-Sales-Dashboard-PowerBI
 
 ## 📌 Project Overview
-This project is a **Mobile Sales Power BI Dashboard** built using CSV data of smartphone transactions.  
+This project is a **Mobile Sales Power BI Dashboard** built using Excel data of smartphone transactions.  
 The dashboard provides a complete view of sales performance by **brand, city, mobile model, day, and payment method**, along with customer ratings.
 
 It is designed for business stakeholders to quickly understand:
@@ -18,7 +18,7 @@ It is designed for business stakeholders to quickly understand:
 | File Name                  | Description                          |
 |---------------------------|--------------------------------------|
 | `Mobile_Sales_Dashboard.pbix` | Main Power BI report file           |
-| `Mobile_Sales_Data.csv`       | Raw transactional data (CSV)       |
+| `Mobile_Sales_Data.csv`       | Raw transactional data (Excel)       |
 | `dashboard.png`               | Main dashboard screenshot           |
 | `README.md`                   | Project documentation               |
 
